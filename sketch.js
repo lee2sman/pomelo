@@ -1,5 +1,4 @@
 //TODO: add 'variables' to carry on throughout an individual piece for consistency, in tracery lang
-//TODO: add sketch drawings
 let numOfSections = 50
 
 let book = {
