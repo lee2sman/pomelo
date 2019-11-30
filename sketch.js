@@ -35,6 +35,9 @@ function setup(){
   noCanvas() 
   grammar = tracery.createGrammar(book) 
 
+  select('body').style('background-color','rgba('+random(220,255)+', '+random(200,255)+', '+random(175,210)+', 1)')
+  //original seems to be something like 248, 236, 194, 1
+
   let bookName = grammar.flatten('#start#')
   createElement('h1',bookName)
 
@@ -45,7 +48,7 @@ function setup(){
   createP('Grapefruit was originally published in a limited edition of 500 copies by the Wunternaum Press in Tokyo in 1964.')
   createP('The 1970 edition contained material from the original, and pieces and drawings done in subsequent years by Yoko Ono')
   createP("This book, "+bookName+" was generated using Lee Tusman's Pomelo, created for NaNoGenMo 2019, three years after he formulated the idea to make generated Grapefruit instruction pieces. This work was generated using Kate Compton's Tracery tool to develop the grammar and text expansion and programmed with the p5.js javascript library.")
-  createP("The list of food items is courtesy The New York Public Library. The book's content is Public Domain CC0. The license for the code is MIT.")
+  createP("The list of food items is courtesy The New York Public Library. The book's generated content is Public Domain CC0. The license for the code is MIT. Tracery is Apache License 2.0.")
 
 
   //begin section
