@@ -11,6 +11,8 @@ I had [this idea](https://github.com/NaNoGenMo/2016/issues/22) for the 2016 NaNo
 
 > "The point of Grapefruit is not how you do it; it is that you do it.” *--yo*
 
+**Note: I am currently at a stopping point but with that said there is a significant difference in quality between the original and these generated works! If I had more time for NaNoGenMo I'd probably re-work my grammar and add more sentence fragments and piece constructions from Acorn and other source texts.**
+
 ## Example Text 
 
 ### Painting
@@ -60,9 +62,6 @@ Perform Logan's belly
 Bottle the smell of Logan's belly
 
 Do it again
-
-
-
 
 ### Publisher's Note
 Grapefruit was originally published in a limited edition of 500 copies by the Wunternaum Press in Tokyo in 1964.
